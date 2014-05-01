@@ -149,6 +149,7 @@ A quick demo
 - build synthesisers!
 - compose music algorithmically!
 - live-coding performances!
+- hooks up to Supercollider synth engine
 
 ---
 
