@@ -17,6 +17,7 @@ layout: false
 - EngD student at Bath/Sysemia ltd
 - Researching procedural narratives in games
 - Love tinkering with odd languages
+- Bristol Clojure Dojo organiser
 
 ---
 
