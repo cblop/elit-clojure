@@ -198,3 +198,5 @@ class: center, middle, inverse
 # Questions
 
 Slides online at [cblop.github.io/bristech-clojure](http://cblop.github.io/bristech-clojure)
+
+Twitter: [@cblop](http://twitter.com/cblop)
