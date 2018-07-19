@@ -56,38 +56,6 @@ class: center, middle, inverse
 - Runs on mobile devices (through React Native)
 
 ---
-class: inverse
-
-# Clojure(script) example
-
-    (defn my-function [x y]
-      (Math/sqrt (+ (* x x) (* y y))))
-
----
-
-class: inverse
-# Clojure(script) example
-
-    (defn my-function [x y]
-      (Math/sqrt (+ (* x x) (* y y))))
-
-    var my-function = function(x, y) {
-        return sqrt((x * x) + (y * y));
-    }
-
----
-class: center, middle, inverse
-
-# It's a tree!
-![Default-aligned-image](img/tree-dark.png)
-
----
-class: center, middle, inverse
-
-# What macros do
-![Default-aligned-image](img/macro.png)
-
----
 
 class: center, middle, inverse
 
@@ -111,6 +79,27 @@ class: center, middle, inverse
 # Relevant XKCD
 
 ![Default-aligned-image](img/lisp_cycles.png)
+
+---
+
+class: inverse
+
+# Clojure(script) example
+
+    (defn my-function [x y]
+      (Math/sqrt (+ (* x x) (* y y))))
+
+---
+
+class: inverse
+# Clojure(script) example
+
+    (defn my-function [x y]
+      (Math/sqrt (+ (* x x) (* y y))))
+
+    var my-function = function(x, y) {
+        return sqrt((x * x) + (y * y));
+    }
 
 ---
 
@@ -181,6 +170,7 @@ class: split-40, inverse
 
 - Side-effects are a huge source of complexity
 - Functional programming avoids side-effects
+- It does this through encouraging *immutability*
 - Object-oriented programming *encourages* the use of side effects!
 
 ---
